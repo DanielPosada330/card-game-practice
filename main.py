@@ -1,6 +1,9 @@
 import pygame
 import random
 
-pygame.init
+# Initialize Pygame
+
+pygame.init()
 
 # Set up the display
+
